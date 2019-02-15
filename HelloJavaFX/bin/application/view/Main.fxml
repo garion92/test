@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.MainController">
+   <children>
+      <Button layoutX="63.0" layoutY="150.0" mnemonicParsing="false" onAction="#handle" text="Hello world!" textFill="#171717" AnchorPane.bottomAnchor="150.0" AnchorPane.leftAnchor="63.0" AnchorPane.rightAnchor="62.0" AnchorPane.topAnchor="150.0" />
+   </children>
+</AnchorPane>
